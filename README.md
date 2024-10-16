@@ -4,7 +4,7 @@ This project was created during the 24-hour JPMC Code for Good 2024 hackathon in
 
 ## Video Demo
 
-[Heart in the Game Website Revamp Demo](https://youtu.be/rCvf2SgZ6RY)
+https://github.com/user-attachments/assets/5655a88e-cf0f-4258-aaa4-0751703f6f71
 
 This video showcases the key features and improvements we implemented during the hackathon.
 
