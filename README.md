@@ -2,9 +2,22 @@
 
 This project was created during the 24-hour JPMC Code for Good 2024 hackathon in Delaware. Our team of 4 members took on the challenge of revamping the website for Heart in the Game, a nonprofit organization dedicated to preventing sudden cardiac arrest in young people.
 
+## Video Demo
+
+[Heart in the Game Website Revamp Demo](https://youtu.be/rCvf2SgZ6RY)
+
+This video showcases the key features and improvements we implemented during the hackathon.
+
+## Team Members
+
+- [Steaphnie Nguyen](https://www.linkedin.com/in/steph-tien-ng): Frontend Lead and Chatbot
+- [Anoushka Arora](https://www.linkedin.com/in/anoushka-arora-b77929153/): Blog and Contact Form
+- [Fillip Cutiuba](https://www.linkedin.com/in/fillipcutiuba/): Web Sraping & Internal Metrics Dashboard
+- [Aaftab Jafri](https://www.linkedin.com/in/aaftab-jafri/): OAuth and Backend
+
 ## Project Overview
 
-Despite having a smaller team compared to others, we successfully redesigned the frontend of the Heart in the Game website (original at https://www.heartinthegame.org/). Given the time constraints, we focused on improving the user interface and experience while also implementing some backend features.
+Despite having a smaller team (4 members) compared to others (7 members), we successfully redesigned the frontend of the Heart in the Game website (original at https://www.heartinthegame.org/). Given the time constraints (24 hours), we focused on improving the user interface and experience while also implementing some backend features.
 
 ### Main Features
 
@@ -23,13 +36,6 @@ Despite having a smaller team compared to others, we successfully redesigned the
 ### Challenges and Future Plans
 
 Due to time constraints, we weren't able to fully implement a RAG (Retrieval-Augmented Generation) app to train the chatbot. This remains a potential area for future development.
-
-## Team Members
-
-- [Steaphnie Nguyen](https://www.linkedin.com/in/steph-tien-ng): Frontend Lead and Chatbot
-- [Anoushka Arora](https://www.linkedin.com/in/anoushka-arora-b77929153/): Blog and Contact Form
-- [Fillip Cutiuba](https://www.linkedin.com/in/fillipcutiuba/): Web Sraping & Internal Metrics Dashboard
-- [Aaftab Jafri](https://www.linkedin.com/in/aaftab-jafri/): OAuth and Backend
 
 ## Technologies Used
 
