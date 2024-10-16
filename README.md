@@ -10,7 +10,7 @@ This video showcases the key features and improvements we implemented during the
 
 ## Team Members
 
-- [Steaphnie Nguyen](https://www.linkedin.com/in/steph-tien-ng): Frontend Lead and Chatbot
+- [Stephanie Nguyen](https://www.linkedin.com/in/steph-tien-ng): Frontend Lead and Chatbot
 - [Anoushka Arora](https://www.linkedin.com/in/anoushka-arora-b77929153/): Blog and Contact Form
 - [Fillip Cutiuba](https://www.linkedin.com/in/fillipcutiuba/): Web Sraping & Internal Metrics Dashboard
 - [Aaftab Jafri](https://www.linkedin.com/in/aaftab-jafri/): OAuth and Backend
