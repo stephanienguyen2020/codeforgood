@@ -1,0 +1,26 @@
+.header__right {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.header__action {
+  margin-left: auto;
+}
+
+@media (max-width: 991px) {
+  .header__action {
+    display: none;
+  }
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo_image {
+  max-height: 20px; /* Adjust this value as needed */
+  width: auto;
+  object-fit: contain;
+}
