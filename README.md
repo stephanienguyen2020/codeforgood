@@ -50,13 +50,9 @@ Our redesign aims to increase user engagement and retention by providing a more 
 4. Improved navigation structure for better information accessibility
 5. Integration of a chatbot for instant user assistance
 
-## Getting Started
+## Getting Started for the landing page
 
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Set up environment variables (including OpenAI API key)
 4. Run the development server: `npm run dev`
-
-## Acknowledgments
-
-We would like to thank JPMC Code for Good 2024 for the opportunity to work on this meaningful project, and Heart in the Game for their important mission in preventing sudden cardiac arrest in young people.
